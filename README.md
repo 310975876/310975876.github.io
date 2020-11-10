@@ -2,7 +2,9 @@
 
 #### 介绍
 
-[https://gitee.com/Ning310975876/Ning310975876]
+页面代码：https://gitee.com/Ning310975876/Ning310975876
+
+演示地址：https://ning310975876.gitee.io
 
 此简历模板：
 
@@ -23,11 +25,5 @@
 ## Acknowledgments
 - font-awesome提供字体图标
 
-#### 使用说明
-
-1. 先Star/Fork本项目，然后Clone或者直接下载到本地
-2. 修改index.html内相关信息
-3. 微调样式（这点应该不成问题）
-4. 部署到线上
 
 
