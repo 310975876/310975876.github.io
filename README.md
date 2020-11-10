@@ -17,6 +17,7 @@
 
 ### PC端
 ![](assets/images/pc.png)
+![](assets/images/xianyan.png)
 
 ### 移动端
 ![](assets/images/ip.png)
