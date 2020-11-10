@@ -6,6 +6,8 @@
 
 演示地址：https://ning310975876.gitee.io
 
+轻博客主页：https://ning310975876.gitee.io/html/index.html
+
 此简历模板：
 
 - 内容上，来源于本人真实求职经历
