@@ -47,7 +47,7 @@ body{
 	height: 100px;
 	margin-bottom: -100px;
 	line-height:100px;
-	background: #1e9fff;
+	background:#1e9fff;  /*#1abc9c*/
 }
 .lay-blog .logo-img{
 	height:65px;
