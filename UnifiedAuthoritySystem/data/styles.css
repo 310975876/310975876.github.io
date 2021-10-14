@@ -12,6 +12,8 @@
 }
 ._默认样式 {
 }
+.image {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -88,7 +90,16 @@
 .radio_button {
   text-align:left;
 }
+.tree_node {
+  text-align:left;
+}
+.menu_item {
+}
 .droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
   color:#000000;
   text-align:left;
 }
@@ -115,7 +126,19 @@
 }
 .shape {
 }
-.image {
+.ellipse {
+}
+.iconfont {
+  font-family:'iconfont ', 'iconfont', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#666666;
+}
+._文本段落1 {
+  text-align:left;
+}
+.image1 {
   color:#000000;
 }
 .heading_1 {
@@ -246,7 +269,7 @@
   font-size:13px;
   color:#000000;
 }
-._文本段落1 {
+._文本段落2 {
   font-size:13px;
   color:#000000;
   text-align:left;
@@ -336,7 +359,7 @@
 }
 .button {
 }
-.ellipse {
+.ellipse1 {
 }
 .text_area {
   color:#000000;
@@ -344,7 +367,7 @@
 }
 .table_cell {
 }
-._文本段落2 {
+._文本段落3 {
   text-align:left;
 }
 ._复选框1 {
@@ -352,10 +375,6 @@
 }
 .link_button {
   color:#169BD5;
-}
-.list_box {
-  color:#000000;
-  text-align:left;
 }
 .grouped-buttons {
   font-family:'Roboto Medium', 'Roboto', sans-serif;
@@ -370,9 +389,6 @@
 }
 .box_21 {
 }
-.tree_node {
-  text-align:left;
-}
 .basicbutton1 {
   font-family:'Roboto Medium', 'Roboto', sans-serif;
   font-weight:500;
@@ -381,9 +397,7 @@
   color:#FFFFFF;
   text-align:center;
 }
-.image1 {
-}
-._文本段落3 {
+._文本段落4 {
   text-align:left;
 }
 ._二级标题1 {
