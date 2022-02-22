@@ -8,6 +8,8 @@
 
 轻博客主页：https://ning310975876.gitee.io/html/index.html
 
+系统原型设计：https://ning310975876.gitee.io/UnifiedAuthoritySystem/index.html
+
 此简历模板：
 
 - 内容上，来源于本人真实求职经历
