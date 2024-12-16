@@ -2,11 +2,11 @@
 
 #### 介绍
 
-演示地址：https://ning310975876.gitee.io
+演示地址：https://310975876.github.io
 
-轻博客主页：https://ning310975876.gitee.io/html/index.html
+轻博客主页：https://310975876.github.io/html/index.html
 
-系统原型设计：https://ning310975876.gitee.io/UnifiedAuthoritySystem/index.html
+系统原型设计：https://310975876.github.io/UnifiedAuthoritySystem/index.html
 
 此简历模板：
 
